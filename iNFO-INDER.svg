@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="13255px" height="8643px" viewBox="0 0 13255 8643" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>iNFO-INDER</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="38.2629975%" id="radialGradient-1">
+            <stop stop-color="#67E49F" offset="0%"></stop>
+            <stop stop-color="#23A24D" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iNFO-INDER">
+            <g id="Group-2" transform="translate(416.000000, 783.000000)">
+                <g id="Group" transform="translate(2983.921525, 0.000000)">
+                    <g id="placeholder" transform="translate(-0.000000, 0.000000)">
+                        <ellipse id="Oval" fill="url(#radialGradient-1)" cx="2489.03251" cy="4290.18431" rx="2489.03251" ry="686.42949"></ellipse>
+                        <path d="M3576.9972,456.818826 L3576.9972,456.818826 C2967.78504,-152.215739 1979.98245,-152.215739 1370.68446,456.818826 L1370.68446,456.818826 C821.724044,1005.6192 760.013203,2038.953 1225.8056,2659.91428 L2473.84083,4461.79169 L3721.87606,2659.91428 C4187.75429,2038.953 4125.95762,1005.6192 3576.9972,456.818826 Z M2473.86212,2758.28787 C1818.55645,2758.28787 1287.43061,2227.31687 1287.43061,1572.20223 C1287.43061,917.087594 1818.55645,386.116588 2473.86212,386.116588 C3129.16779,386.116588 3660.29363,917.087594 3660.29363,1572.20223 C3660.29363,2227.31687 3129.16779,2758.28787 2473.86212,2758.28787 Z" id="Shape" fill="#EFC128"></path>
+                    </g>
+                    <text id="i" font-family="AppleMyungjo" font-size="2500" font-weight="normal" fill="#4C71FF">
+                        <tspan x="2126" y="2514">i</tspan>
+                    </text>
+                </g>
+                <text id="iNFO-INDER" font-family="AppleMyungjo" font-size="2000" font-weight="normal" fill="#4C71FE">
+                    <tspan x="0" y="6716">iNFO-INDER</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
